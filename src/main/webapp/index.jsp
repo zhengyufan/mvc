@@ -12,7 +12,9 @@ pageEncoding="ISO-8859-1"%>
 	<center>
 		<h2>Hello World</h2>
 		<h3>
-			<a href="hello?name=Eric">Click Here</a>
+			<a href="hello?name=Eric">Click Here To Greet With User Eric</a>
+			<br />
+			<a href="hello/France">Click Here To Greet With Country France</a>
 		</h3>
 	</center>
 </body>
