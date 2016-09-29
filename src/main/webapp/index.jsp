@@ -16,6 +16,10 @@ pageEncoding="ISO-8859-1"%>
 			<br />
 			<a href="hello/France">Click Here To Greet With Country France</a>
 		</h3>
+		<h2>Student Admission</h2>
+		<h3>
+			<a href="admissionForm.html">Click here to register student information.</a>
+		</h3>
 	</center>
 </body>
 </html>
