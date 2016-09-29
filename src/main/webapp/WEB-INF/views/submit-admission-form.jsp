@@ -8,7 +8,18 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<h3>${msg}</h3>
 	<h1>Congratulation! You have successfully registered!</h1>
-	<p>${msg}</p>
+	<h3>Detailed Information</h3>
+	<table>
+		<tr>
+			<td>Student Name: </td>
+			<td>${student.studentName}</td>
+		</tr>
+		<tr>
+			<td>Student ID: </td>
+			<td>${student.studentID}</td>
+		</tr>
+	</table>
 </body>
 </html>
