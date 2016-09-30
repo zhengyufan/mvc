@@ -8,6 +8,7 @@
 <title>Student Admission Form</title>
 </head>
 <body>
+	<h3>${msg}</h3>
 	<h1>Submit the form for registration</h1>
 	<form action="submitAdmissionForm.html" method="post">
 		<p>Student Name: <input type="text" name="studentName"/></p>
